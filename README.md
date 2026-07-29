@@ -9,8 +9,7 @@
 ## 🧑‍💻 About Me
 - 🔭 Currently working on: modern web apps with **React** and **Next.js**  
 - 🌱 Learning: advanced **TypeScript**, performance optimization, and design systems  
-- 🎯 Goal: To build user-friendly interfaces that delight and empower users  
-- ⚡ Fun fact: I love gaming 🎮, solving puzzles 🧩, and travelling ✈️  
+- 🎯 Goal: To build user-friendly interfaces that delight and empower users
 
 ---
 
@@ -23,6 +22,5 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 [LinkedIn](https://linkedin.com/in/abdulwahab)  
-- 🌐 [Portfolio](https://abdulwahab.dev)  
-- 🐦 [Twitter](https://twitter.com/abdulwahab)
+- 💼 [LinkedIn](https://linkedin.com/in/abdulwahab-lawal)
+- 🐦 [Twitter](https://twitter.com/whoiswahab_)
