@@ -1,14 +1,13 @@
 ## ⚡ Abdulwahab@github
 -------------------------
-OS: Ubuntu 22.04 LTS x86_64  
-Shell: zsh 5.9  
-Uptime: 23 years  
+OS: Windows 11
+Uptime: 5 years  
 Terminal: VS Code  
 Processor: Intel i7  
 RAM: 16GB  
 Location: Lagos, Nigeria 🌍  
-Languages: TypeScript, Python, Rust, Go  
-Hobbies: Gaming 🎮, Coding 💻, Travelling ✈️  
+Languages: TypeScript, Javascript 
+Hobbies: Gaming 🎮, Coding 💻
 
 ---
 
@@ -19,9 +18,9 @@ I enjoy contributing to open-source projects and mentoring new developers.
 ---
 
 ### 🧠 Skills
-| Backend | Frontend | DevOps | Tools |
+Frontend 
 |----------|-----------|--------|-------|
-| Node.js, Rust | React, Next.js | Docker, GitHub Actions | VS Code, Figma |
+| React, Next.js | Tailwind, GitHub Actions | VS Code, Figma |
 
 ---
 
@@ -31,8 +30,7 @@ I enjoy contributing to open-source projects and mentoring new developers.
 
 ---
 
-### ☕ Support
-If you like my work, you can [buy me a coffee](https://buymeacoffee.com/abdulwahab) or connect with me:  
-[LinkedIn](https://linkedin.com/in/abdulwahab) • [Twitter](https://twitter.com/abdulwahab) • [Portfolio](https://abdulwahab.dev)
+<img width="880" height="192" alt="image" src="https://github.com/user-attachments/assets/b1d46b29-5f96-40af-b3f6-5b596c2d615b" />
+
 
 
