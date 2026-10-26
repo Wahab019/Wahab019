@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Abdulwahab
 
 🎨 **Frontend Developer | Tech Explorer**  
-🌍 Based in Lagos, Nigeria  
+🌍 Base
 💡 Passionate about crafting beautiful, responsive, and accessible web experiences  
 
 ---
